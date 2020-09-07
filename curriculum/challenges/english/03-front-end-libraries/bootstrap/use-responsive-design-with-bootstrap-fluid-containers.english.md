@@ -75,7 +75,7 @@ tests:
 
 <p>Click here for <a href="#">cat photos</a>.</p>
 
-<a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+<a href="#"><img class="smaller-image thick-green-border" src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
 
 <p>Things cats love:</p>
 <ul>
@@ -141,7 +141,7 @@ tests:
 
 <p>Click here for <a href="#">cat photos</a>.</p>
 
-<a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+<a href="#"><img class="smaller-image thick-green-border" src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
 
 <p>Things cats love:</p>
 <ul>

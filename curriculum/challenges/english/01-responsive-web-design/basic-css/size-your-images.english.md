@@ -34,7 +34,7 @@ Create a class called <code>smaller-image</code> and use it to resize the image 
 ```yml
 tests:
   - text: Your <code>img</code> element should have the class <code>smaller-image</code>.
-    testString: assert($("img[src='https://bit.ly/fcc-relaxing-cat']").attr('class') === "smaller-image");
+    testString: assert($("img[src='/relaxing-cat.jpg']").attr('class') === "smaller-image");
   - text: Your image should be 100 pixels wide. Browser zoom should be at 100%.
     testString: assert($("img").width() === 100);
 
@@ -68,7 +68,7 @@ tests:
 <main>
   <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
 
-  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
 
   <div>
     <p>Things cats love:</p>
@@ -131,7 +131,7 @@ tests:
 <main>
   <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
   
-  <a href="#"><img class="smaller-image" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img class="smaller-image" src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
   
   <div>
     <p>Things cats love:</p>

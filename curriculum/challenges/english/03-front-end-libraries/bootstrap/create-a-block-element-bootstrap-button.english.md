@@ -79,7 +79,7 @@ tests:
 
   <p>Click here for <a href="#">cat photos</a>.</p>
 
-  <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img class="smaller-image thick-green-border" src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
 
   <img src="https://bit.ly/fcc-running-cats" class="img-responsive" alt="Three kittens running towards the camera.">
   <button class="btn btn-default">Like</button>
@@ -149,7 +149,7 @@ tests:
 
   <p>Click here for <a href="#">cat photos</a>.</p>
 
-  <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img class="smaller-image thick-green-border" src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
 
   <img src="https://bit.ly/fcc-running-cats" class="img-responsive" alt="Three kittens running towards the camera.">
   <button class="btn btn-block btn-default">Like</button>

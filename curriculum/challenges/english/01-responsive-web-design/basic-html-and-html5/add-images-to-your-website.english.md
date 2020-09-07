@@ -25,7 +25,7 @@ Let's add an <code>alt</code> attribute to our <code>img</code> example above:
 Let's try to add an image to our website:
 Within the existing <code>main</code> element, insert an <code>img</code> element before the existing <code>p</code> elements.
 Now set the <code>src</code> attribute so that it points to this url:
-<code>https://bit.ly/fcc-relaxing-cat</code>
+<code>/relaxing-cat.jpg</code>
 Finally, don't forget to give your <code>img</code> element an <code>alt</code>  attribute with applicable text.
 </section>
 
@@ -72,7 +72,7 @@ tests:
 ```html
 <h2>CatPhotoApp</h2>
 <main>
-  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img src="/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
   <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
   <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
 </main>
