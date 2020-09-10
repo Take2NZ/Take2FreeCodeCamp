@@ -94,7 +94,7 @@ tests:
   }
 </style>
 <header>
-  <img src="quincy.jpg" alt="Quincy Larson's profile picture" class="profile-thumbnail">
+  <img src="/quincy.jpg" alt="Quincy Larson's profile picture" class="profile-thumbnail">
   <div class="profile-name">
     <h3>Quincy Larson</h3>
     <h4>@ossia</h4>
@@ -194,7 +194,7 @@ tests:
   }
 </style>
 <header>
-  <img src="quincy.jpg" alt="Quincy Larson's profile picture" class="profile-thumbnail">
+  <img src="/quincy.jpg" alt="Quincy Larson's profile picture" class="profile-thumbnail">
   <div class="profile-name">
     <h3>Quincy Larson</h3>
     <h4>@ossia</h4>
