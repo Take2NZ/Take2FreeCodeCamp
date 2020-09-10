@@ -26,7 +26,7 @@ Here's an example of changing the width of an image on hover:
   }
 </style>
 
-<img src="https://bit.ly/smallgooglelogo" alt="Google's Logo" />
+<img src="/google.png" alt="Google's Logo" />
 ```
 
 </section>
