@@ -1,18 +1,7 @@
-// import { forumLocation } from '../../../../../config/env.json';
-
-// export function getGuideUrl({ forumTopicId, title = '' }) {
-//   title = encodeURIComponent(title);
-//   return forumTopicId
-//     ? `${forumLocation}/t/${forumTopicId}`
-//     : `${forumLocation}/search?q=${title}%20in%3Atitle%20order%3Aviews`;
-// }
-
 export function getGuideUrl(forumTopicId) {
-  // var hintPage;
   var forumLink = forumTopicId.forumTopicId;
   var link = forumLink.toString();
-  console.log(link);
-  return 'https://google.com/' + link;
+  return '/hintPagesPDF/' + link + '.pdf';
 }
 
 export function isGoodXHRStatus(status) {
