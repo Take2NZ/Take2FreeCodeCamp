@@ -1,10 +1,15 @@
-import { forumLocation } from '../../../../../config/env.json';
+// import { forumLocation } from '../../../../../config/env.json';
 
-export function getGuideUrl({ forumTopicId, title = '' }) {
-  title = encodeURIComponent(title);
-  return forumTopicId
-    ? `${forumLocation}/t/${forumTopicId}`
-    : `${forumLocation}/search?q=${title}%20in%3Atitle%20order%3Aviews`;
+// export function getGuideUrl({ forumTopicId, title = '' }) {
+//   title = encodeURIComponent(title);
+//   return forumTopicId
+//     ? `${forumLocation}/t/${forumTopicId}`
+//     : `${forumLocation}/search?q=${title}%20in%3Atitle%20order%3Aviews`;
+// }
+
+export function getGuideUrl(forumTopicId) {
+  // var hintPage;
+  return (forumTopicId = 'https://google.com/' + forumTopicId);
 }
 
 export function isGoodXHRStatus(status) {
