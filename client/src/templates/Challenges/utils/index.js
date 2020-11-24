@@ -9,7 +9,10 @@
 
 export function getGuideUrl(forumTopicId) {
   // var hintPage;
-  return (forumTopicId = 'https://google.com/' + forumTopicId);
+  var forumLink = forumTopicId.forumTopicId;
+  var link = forumLink.toString();
+  console.log(link);
+  return 'https://google.com/' + link;
 }
 
 export function isGoodXHRStatus(status) {
