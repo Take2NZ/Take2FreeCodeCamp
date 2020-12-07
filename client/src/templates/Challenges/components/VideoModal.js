@@ -42,7 +42,13 @@ export class VideoModal extends Component {
           <Modal.Title className='text-center'>Watch A Video</Modal.Title>
         </Modal.Header>
         <Modal.Body className='video-modal-body'>
-          <iframe frameBorder='0' src={videoUrl} title='Watch a video' />
+          <video
+            autoPlay={true}
+            autoStart={true}
+            controls={true}
+            src={videoUrl}
+            type='video/mp4'
+          />
           <p>
             Tip: If the mini-browser is covering the code, click and drag to
             move it. Also, feel free to stop and edit the code in the video at

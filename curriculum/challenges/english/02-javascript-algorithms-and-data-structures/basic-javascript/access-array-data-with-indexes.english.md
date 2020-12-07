@@ -3,7 +3,7 @@ id: 56bbb991ad1ed5201cd392ca
 title: Access Array Data with Indexes
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cBZQbTz'
+videoUrl: '/thelastmile.mp4'
 forumTopicId: 16158
 ---
 
