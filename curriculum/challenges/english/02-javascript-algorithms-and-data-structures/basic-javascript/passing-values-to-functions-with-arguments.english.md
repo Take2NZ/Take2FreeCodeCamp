@@ -3,7 +3,7 @@ id: 56533eb9ac21ba0edf2244bd
 title: Passing Values to Functions with Arguments
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cy8rahW'
+videoUrl: '/help-videos/Passing Values to Functions with Arguments.webm'
 forumTopicId: 18254
 ---
 
@@ -93,7 +93,7 @@ capture();
 ```js
 uncapture();
 
-if (typeof functionWithArgs !== "function") { 
+if (typeof functionWithArgs !== "function") {
   (function() { return "functionWithArgs is not defined"; })();
 } else {
   (function() { return logOutput || "console.log never called"; })();

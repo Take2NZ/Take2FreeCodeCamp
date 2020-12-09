@@ -3,7 +3,7 @@ id: 56533eb9ac21ba0edf2244e1
 title: Nesting For Loops
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cRn6GHM'
+videoUrl: '/help-videos/Nesting For Loops.webm'
 forumTopicId: 18248
 ---
 

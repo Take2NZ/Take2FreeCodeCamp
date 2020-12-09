@@ -3,7 +3,7 @@ id: bd7123c9c443eddfaeb5bdef
 title: Declare JavaScript Variables
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cNanrHq'
+videoUrl: '/help-videos/Declare JavaScript Variables.webm'
 forumTopicId: 17556
 ---
 

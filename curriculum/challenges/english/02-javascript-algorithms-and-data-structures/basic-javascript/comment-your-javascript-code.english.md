@@ -3,7 +3,7 @@ id: bd7123c9c441eddfaeb4bdef
 title: Comment Your JavaScript Code
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/c7ynnTp'
+videoUrl: '/help-videos/Comment Your JavaScript Code.webm'
 forumTopicId: 16783
 ---
 

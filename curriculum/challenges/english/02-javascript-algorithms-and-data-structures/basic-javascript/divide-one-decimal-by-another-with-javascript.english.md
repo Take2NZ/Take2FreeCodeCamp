@@ -3,7 +3,7 @@ id: bd7993c9ca9feddfaeb7bdef
 title: Divide One Decimal by Another with JavaScript
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cBZe9AW'
+videoUrl: '/help-videos/Divide One Decimal by Another with JavaScript.webm'
 forumTopicId: 18255
 ---
 

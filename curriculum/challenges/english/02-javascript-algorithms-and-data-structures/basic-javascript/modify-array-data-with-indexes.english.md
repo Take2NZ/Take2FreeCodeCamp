@@ -3,7 +3,7 @@ id: cf1111c1c11feddfaeb8bdef
 title: Modify Array Data With Indexes
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/czQM4A8'
+videoUrl: '/help-videos/Modify Array Data With Indexes.webm'
 forumTopicId: 18241
 ---
 

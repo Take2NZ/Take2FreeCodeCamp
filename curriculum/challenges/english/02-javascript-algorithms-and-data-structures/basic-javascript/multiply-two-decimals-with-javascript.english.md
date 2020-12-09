@@ -3,11 +3,11 @@ id: bd7993c9c69feddfaeb7bdef
 title: Multiply Two Decimals with JavaScript
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/ce2GeHq'
+videoUrl: '/help-videos/Multiply Two Decimals with JavaScript.webm'
 forumTopicId: 301173
 ---
 
-## Description
+## DescriptioMultiply Two Decimals with JavaScript.webmn
 <section id='description'>
 In JavaScript, you can also perform calculations with decimal numbers, just like whole numbers.
 Let's multiply two decimals together to get their product.

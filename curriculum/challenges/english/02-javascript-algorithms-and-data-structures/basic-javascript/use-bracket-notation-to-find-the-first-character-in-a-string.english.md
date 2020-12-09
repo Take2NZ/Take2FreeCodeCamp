@@ -3,7 +3,7 @@ id: bd7123c9c549eddfaeb5bdef
 title: Use Bracket Notation to Find the First Character in a String
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/ca8JwhW'
+videoUrl: '/help-videos/Use Bracket Notation to Find the First Character in a String.webm'
 forumTopicId: 18341
 ---
 

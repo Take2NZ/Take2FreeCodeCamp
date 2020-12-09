@@ -3,7 +3,7 @@ id: bd7993c9c69feddfaeb8bdef
 title: Store Multiple Values in one Variable using JavaScript Arrays
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/crZQWAm'
+videoUrl: '/help-videos/Store Multiple Values in one Variable using JavaScript Arrays.webm'
 forumTopicId: 18309
 ---
 

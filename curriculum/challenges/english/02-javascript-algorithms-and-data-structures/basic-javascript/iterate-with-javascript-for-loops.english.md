@@ -3,7 +3,7 @@ id: cf1111c1c11feddfaeb5bdef
 title: Iterate with JavaScript For Loops
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/c9yNVCe'
+videoUrl: '/help-videos/Iterate with JavaScript For Loops.webm'
 forumTopicId: 18219
 ---
 

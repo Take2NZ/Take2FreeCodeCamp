@@ -3,7 +3,7 @@ id: 56104e9e514f539506016a5c
 title: Iterate Odd Numbers With a For Loop
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cm8n7T9'
+videoUrl: '/help-videos/Iterate Odd Numbers With a For Loop.webm'
 forumTopicId: 18212
 ---
 

@@ -3,7 +3,7 @@ id: 56bbb991ad1ed5201cd392d1
 title: Updating Object Properties
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/c9yEJT4'
+videoUrl: '/help-videos/Updating Object Properties.webm'
 forumTopicId: 18336
 ---
 

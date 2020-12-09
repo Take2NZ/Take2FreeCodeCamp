@@ -3,7 +3,7 @@ id: cf1391c1c11feddfaeb4bdef
 title: Create Decimal Numbers with JavaScript
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/ca8GEuW'
+videoUrl: '/help-videos/Create Decimal Numbers with JavaScript.webm'
 forumTopicId: 16826
 ---
 

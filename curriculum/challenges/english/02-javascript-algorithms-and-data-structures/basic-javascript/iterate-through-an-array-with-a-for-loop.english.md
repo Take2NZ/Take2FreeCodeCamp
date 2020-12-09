@@ -3,7 +3,7 @@ id: 5675e877dbd60be8ad28edc6
 title: Iterate Through an Array with a For Loop
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/caeR3HB'
+videoUrl: '/help-videos/Iterate Through an Array with a For Loop.webm'
 forumTopicId: 18216
 ---
 
