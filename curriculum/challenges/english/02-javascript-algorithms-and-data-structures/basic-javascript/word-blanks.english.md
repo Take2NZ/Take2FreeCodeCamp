@@ -3,7 +3,7 @@ id: 56533eb9ac21ba0edf2244bb
 title: Word Blanks
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/caqn8zuP'
+videoUrl: '/help-videos/Word Blanks.webm'
 forumTopicId: 18377
 ---
 

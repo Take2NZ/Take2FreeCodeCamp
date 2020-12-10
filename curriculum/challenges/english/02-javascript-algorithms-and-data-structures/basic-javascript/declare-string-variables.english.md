@@ -3,7 +3,7 @@ id: bd7123c9c444eddfaeb5bdef
 title: Declare String Variables
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/c2QvWU6'
+videoUrl: '/help-videos/Declare String Variables.webm'
 forumTopicId: 17557
 ---
 

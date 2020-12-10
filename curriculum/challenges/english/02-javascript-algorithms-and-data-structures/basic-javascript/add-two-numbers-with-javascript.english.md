@@ -3,7 +3,7 @@ id: cf1111c1c11feddfaeb3bdef
 title: Add Two Numbers with JavaScript
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cM2KBAG'
+videoUrl: '/help-videos/Add Two Numbers with JavaScript.webm'
 forumTopicId: 16650
 ---
 

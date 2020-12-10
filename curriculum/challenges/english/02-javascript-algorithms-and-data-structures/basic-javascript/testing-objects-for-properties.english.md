@@ -3,7 +3,7 @@ id: 567af2437cbaa8c51670a16c
 title: Testing Objects for Properties
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/c6Wz4ySr'
+videoUrl: '/help-videos/Testing Objects for Properties.webm'
 forumTopicId: 18324
 ---
 

@@ -3,7 +3,7 @@ id: 5a2efd662fb457916e1fe604
 title: Iterate with JavaScript Do...While Loops
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cDqWGcp'
+videoUrl: '/help-videos/Iterate with JavaScript Do...While Loops.webm'
 forumTopicId: 301172
 ---
 
@@ -24,7 +24,7 @@ The example above behaves similar to other types of loops, and the resulting arr
 Here is a regular <code>while</code> loop that will run the code in the loop as long as <code>i < 5</code>:
 
 ```js
-var ourArray = []; 
+var ourArray = [];
 var i = 5;
 while (i < 5) {
   ourArray.push(i);
@@ -36,7 +36,7 @@ In this example, we initialize the value of <code>ourArray</code> to an empty ar
 Now, take a look at a <code>do...while</code> loop:
 
 ```js
-var ourArray = []; 
+var ourArray = [];
 var i = 5;
 do {
   ourArray.push(i);

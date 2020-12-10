@@ -3,7 +3,7 @@ id: cf1111c1c11feddfaeb7bdef
 title: Nest one Array within Another Array
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/crZQZf8'
+videoUrl: '/help-videos/Nest one Array within Another Array.webm'
 forumTopicId: 18247
 ---
 

@@ -3,7 +3,7 @@ id: 56533eb9ac21ba0edf2244c2
 title: Return a Value from a Function with Return
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cy87wue'
+videoUrl: '/help-videos/Return a Value from a Function with Return.webm'
 forumTopicId: 18271
 ---
 

@@ -3,7 +3,7 @@ id: 56533eb9ac21ba0edf2244d2
 title: Comparison with the Inequality Operator
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cdBm9Sr'
+videoUrl: '/help-videos/Comparison with the Inequality Operator.webm'
 forumTopicId: 16787
 ---
 

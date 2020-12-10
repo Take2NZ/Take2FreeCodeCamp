@@ -3,7 +3,7 @@ id: 56533eb9ac21ba0edf2244cc
 title: Accessing Nested Objects
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cRnRnfa'
+videoUrl: '/help-videos/Accessing Nested Objects.webm'
 forumTopicId: 16161
 ---
 
@@ -18,7 +18,7 @@ var ourStorage = {
     "drawer": "stapler"
   },
   "cabinet": {
-    "top drawer": { 
+    "top drawer": {
       "folder1": "a file",
       "folder2": "secrets"
     },
@@ -80,8 +80,8 @@ var gloveBoxContents = undefined; // Change this line
 <div id='js-teardown'>
 
 ```js
-(function(x) { 
-  if(typeof x != 'undefined') { 
+(function(x) {
+  if(typeof x != 'undefined') {
     return "gloveBoxContents = " + x;
   }
   return "gloveBoxContents is undefined";

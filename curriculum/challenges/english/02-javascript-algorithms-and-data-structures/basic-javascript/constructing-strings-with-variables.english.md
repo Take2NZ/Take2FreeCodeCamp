@@ -3,7 +3,7 @@ id: 56533eb9ac21ba0edf2244b9
 title: Constructing Strings with Variables
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cqk8rf4'
+videoUrl: '/help-videos/Constructing Strings with Variables.webm'
 forumTopicId: 16805
 ---
 

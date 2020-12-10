@@ -3,7 +3,7 @@ id: 56533eb9ac21ba0edf2244b0
 title: Compound Assignment With Augmented Subtraction
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/c2Qv7AV'
+videoUrl: '/help-videos/Compound Assignment With Augmented Subtraction.webm'
 forumTopicId: 16660
 ---
 

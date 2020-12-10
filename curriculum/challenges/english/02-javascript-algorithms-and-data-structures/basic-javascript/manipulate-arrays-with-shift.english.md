@@ -3,7 +3,7 @@ id: 56bbb991ad1ed5201cd392cd
 title: Manipulate Arrays With shift()
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cRbVETW'
+videoUrl: '/help-videos/Manipulate Arrays With shift().webm'
 forumTopicId: 18238
 ---
 
