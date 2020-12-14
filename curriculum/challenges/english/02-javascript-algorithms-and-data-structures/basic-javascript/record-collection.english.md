@@ -3,7 +3,7 @@ id: 56533eb9ac21ba0edf2244cf
 title: Record Collection
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/c4mpysg'
+videoUrl: '/help-videos/record-collection.mp4'
 forumTopicId: 18261
 ---
 
