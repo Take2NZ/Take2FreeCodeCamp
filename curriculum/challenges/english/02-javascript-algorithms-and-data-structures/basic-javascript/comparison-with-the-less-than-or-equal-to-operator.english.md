@@ -3,7 +3,7 @@ id: 56533eb9ac21ba0edf2244d7
 title: Comparison with the Less Than Or Equal To Operator
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cNVR7Am'
+videoUrl: '/help-videos/comparison-with-the-less-than-or-equal-to-operator.mp4'
 forumTopicId: 16788
 ---
 

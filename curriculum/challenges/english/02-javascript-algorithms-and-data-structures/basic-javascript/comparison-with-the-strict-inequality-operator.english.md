@@ -3,7 +3,7 @@ id: 56533eb9ac21ba0edf2244d3
 title: Comparison with the Strict Inequality Operator
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cKekkUy'
+videoUrl: '/help-videos/comparison-with-the-strict-inequality-operator.mp4'
 forumTopicId: 16791
 ---
 

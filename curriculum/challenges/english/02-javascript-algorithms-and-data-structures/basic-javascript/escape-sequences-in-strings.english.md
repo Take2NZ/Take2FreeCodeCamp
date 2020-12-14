@@ -3,7 +3,7 @@ id: 56533eb9ac21ba0edf2244b6
 title: Escape Sequences in Strings
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cvmqRh6'
+videoUrl: '/help-videos/escape-sequences-in-strings.mp4'
 forumTopicId: 17567
 ---
 

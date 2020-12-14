@@ -3,7 +3,7 @@ id: 56533eb9ac21ba0edf2244b4
 title: Quoting Strings with Single Quotes
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/cbQmnhM'
+videoUrl: '/help-videos/quoting-strings-with-single-quotes.mp4'
 forumTopicId: 18260
 ---
 

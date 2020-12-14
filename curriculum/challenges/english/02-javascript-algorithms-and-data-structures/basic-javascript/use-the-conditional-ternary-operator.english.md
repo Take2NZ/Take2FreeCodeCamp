@@ -3,7 +3,7 @@ id: 587d7b7e367417b2b2512b24
 title: Use the Conditional (Ternary) Operator
 challengeType: 1
 isHidden: false
-videoUrl: 'https://scrimba.com/c/c3JRmSg'
+videoUrl: '/help-videos/use-the-conditional-ternary-operator.mp4'
 forumTopicId: 301181
 ---
 
