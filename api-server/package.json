@@ -37,7 +37,7 @@
     "googleapis": "^42.0.0",
     "helmet": "^3.21.1",
     "helmet-csp": "^2.9.3",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "loopback": "^3.27.0",
     "loopback-boot": "^2.28.0",
